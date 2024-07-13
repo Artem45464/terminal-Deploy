@@ -1,22 +1,3 @@
-# Deploy 
-
-
-# GitHub Pages
-
-
-# Netlify
-
-
-
-# Vercel
-
-
-# Heroku
-
-
-# AWS, Azure
-
-
 # terminal 
 
 1  Access Your Server:  Use SSH or another method to connect to your server/hosting environment.
